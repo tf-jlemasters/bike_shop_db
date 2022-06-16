@@ -8,7 +8,7 @@ An interactive Bash program that stores rental information for your bike rental 
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-Fork repository, and open the project in your terminal. Run ```./bike-shop.sh``` in the terminal to run the script after dumping the database.
+Fork repository, and open the project in your terminal. Dump the SQL database, and return to the terminal to run ```./bike-shop.sh``` to run the script.
 ## Contributors
 Jackson LeMasters
 ## Repository
